@@ -173,3 +173,9 @@ new window open: enter data and press generate
 > displayed path is location to find bot private and public SSH-Key locally when needed
 
 ![dataentersshkey](img/findsshkeygen1.gif)
+
+![githubsshadd](img/sshKey_githubInsert.gif)
+
+![githubsshadd](img/sshKey_githubInsert1.gif)
+
+![githubsshadd](img/sshKey_githubInsert2.gif)
