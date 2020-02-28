@@ -190,17 +190,17 @@ new window open: enter data and press generate
 > Correct order essential!! 
 
 tested save:
-- 1. chose local master branch
-- 2. in your local main repository: add new folder - choose name of your unity project!!! for later
-- 3. in new folder add .gitignore file - choose matching template from [here](https://github.com/github/gitignore)
-- 4. change name of .gitignore file to '.gitignore' - nothing else
-- 5. commit to local master !!
+- **1** chose local master branch
+- **2** in your local main repository: add new folder - choose name of your unity project!!! for later
+- **3** in new folder add .gitignore file - choose matching template from [here](https://github.com/github/gitignore)
+- **4** change name of .gitignore file to '.gitignore' - nothing else
+- **5** commit to local master !!
 ---
-- 6. move your .gitignore file up in hierarchy 
-- 7. delete new folder with name of unity project
-- 8. I create new unity project with name identical to deleted folder -> in order to replace it
-- 8. II copy + paste folder of pre existing unity project in your directory - identical names necessary
-- 9. move .gitignore file into your unity project folder 
-- 10. commit again
+- **6** move your .gitignore file up in hierarchy 
+- **7** delete new folder with name of unity project
+- **8** I create new unity project with name identical to deleted folder -> in order to replace it
+- **8** II copy + paste folder of pre existing unity project in your directory - identical names necessary
+- **9** move .gitignore file into your unity project folder 
+- **10** commit again
 ---
-- 11. test your setup - newly added assets should appear, code files should be updated, while most Unity meta files should be ignored by git when comitting or rebasing or pushing - certain meta files will be updated, see .gitignore file template for info
+- **11** test your setup - newly added assets should appear, code files should be updated, while most Unity meta files should be ignored by git when comitting or rebasing or pushing - certain meta files will be updated, see .gitignore file template for info
