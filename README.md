@@ -157,3 +157,19 @@ git add-commit -m 'My commit message'
 
 
 [download git-fork](https://git-fork.com/)
+
+
+### SSH
+
+Find SSH key generator function in fork
+
+![FindGenerate](img/findsshkeygen.gif)
+
+line SSH Key: drop down: generate SSH
+    
+new window open: enter data and press generate
+
+> [!CAUTION]
+> displayed path is location to find bot private and public SSH-Key locally when needed
+
+![dataentersshkey](img/findsshkeygen1.gif)
